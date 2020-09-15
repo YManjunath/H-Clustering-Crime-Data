@@ -1,5 +1,5 @@
 # H-Clustering-Crime-Data
-Performing Clustering for the crime data and identifying the number of clusters formed and drawing inferences.
+Performing Clustering for the crime data and identifying the number of clusters formed and drawing inferences.(Used R and Python)
 
 Data Description:
 Murder -- Muder rates in different places of United States
